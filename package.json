@@ -1,0 +1,20 @@
+{
+  "name": "dependency-injection-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michał Miszczyszyn <michal@mmiszy.pl> (https://typeofweb.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "reflect-metadata": "0.1.12",
+    "typescript": "2.7.1"
+  },
+  "devDependencies": {
+    "@types/node": "9.4.5",
+    "@types/reflect-metadata": "0.1.0",
+    "prettier": "1.10.2"
+  }
+}
